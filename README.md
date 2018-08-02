@@ -1,21 +1,16 @@
 #提交项目代码
-Administrator@WIN10-709301046 MINGW64 /g/000VuePro/Travel
 ##$ git init
 Initialized empty Git repository in G:/000VuePro/Travel/.git/
 
-Administrator@WIN10-709301046 MINGW64 /g/000VuePro/Travel (master)
 ##$ git add README.md
 
-Administrator@WIN10-709301046 MINGW64 /g/000VuePro/Travel (master)
 ##$ git commit -m "readme"
 [master (root-commit) e9ea9a5] readme
  1 file changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 README.md
 
-Administrator@WIN10-709301046 MINGW64 /g/000VuePro/Travel (master)
 ##$ git remote add origin https://github.com/RaiseLiu/Travel.git
 
-Administrator@WIN10-709301046 MINGW64 /g/000VuePro/Travel (master)
 ##$ git push -u origin master
 fatal: HttpRequestException encountered.
    ▒▒▒▒▒▒▒▒ʱ▒▒▒▒
